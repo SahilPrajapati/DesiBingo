@@ -15,6 +15,7 @@ In this way, the game will proceed.
 
 ![Screenshot](bingoPlay.png)
 
+&nbsp;
 
 2. As soon as any row, column or diagonal is completely marked the letters of word "BINGO" will start to be cut. The total number of letters that will be cut of the letter "BINGO"
 will depend upon the total number of rows, columns or diagonals are completely filled.
